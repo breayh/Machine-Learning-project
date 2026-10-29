@@ -3,7 +3,7 @@ This repository contains an academic science project that evaluates machine lear
 
 # Language Endangerment Prediction
 
-Predicts global language endangerment tiers ($0$–$4$) using socio-economic and demographic indicators ($N = 2,635$). 
+Predicts global language endangerment tiers (0–4) using socio-economic and demographic indicators ($N = 2,635$). 
 
 ## Overview
 This project compares a baseline **Linear Regression** model against a non-linear **Random Forest Regressor** to analyze the factors influencing language endangerment. 

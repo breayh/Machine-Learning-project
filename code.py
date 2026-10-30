@@ -1,3 +1,4 @@
+```python
 import numpy as np
 import pandas as pd
 import wbgapi as wb
@@ -214,3 +215,4 @@ plt.grid(True, linestyle='--', alpha=0.4)
 plt.legend()
 plt.tight_layout()
 plt.show()
+```

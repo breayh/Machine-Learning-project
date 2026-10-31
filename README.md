@@ -10,7 +10,7 @@ This project compares a baseline **Linear Regression** model against a non-linea
 
 ## Project Structure
 - `report.pdf` - Full academic report document.
-- `code.py` - Data preprocessing, modeling, and evaluation script.
+- `ML project/main.py` - Data preprocessing, modeling, and evaluation script.
 
 All **data** has been collected from sources:
 - **[1] Kaggle:** [Extinct Languages Dataset](https://www.kaggle.com/datasets/the-guardian/extinct-languages/data)
